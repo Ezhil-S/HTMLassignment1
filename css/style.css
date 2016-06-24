@@ -22,6 +22,9 @@ nav li,footer li{
   margin-left: 0;
   margin-right: 0;
 }
+.content{
+  font-family: 'Montserrat', sans-serif;
+}
 .content,main{
   text-align: justify;
   background-color: #00b38f;
@@ -49,10 +52,11 @@ a{
   text-decoration: none;
 }
 h5{
-  padding-top:10px;
+  text-align: center;
+  padding-top:20px;
 }
 p,h5{
-  padding: 0px 10px;
+  padding: 0px 20px;
   text-indent: 30px;
 }
 .links{

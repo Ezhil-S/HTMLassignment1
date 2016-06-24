@@ -65,16 +65,18 @@ main p{
   width:250px;
   height:100px;
   margin-bottom: 20px;
+  border-radius: 10px;
 }
 .intro img{
   margin: 0 100px ;
   width: 700px;
   height:300px;
 }
-.content img,{
+.content img{
   width: 200px;
   height: 200px;
   padding-left: 10px;
+  margin-bottom: 20px;
 }
 form li{
   color: black;
@@ -86,6 +88,11 @@ label{
 }
 .col1,.col2{
   margin-top: 20px;
+  margin-bottom: 20px;
+}
+.content{
+  background-color: #d9d9d9;
+
 }
 .bottom {
   padding-top: 10px;
