@@ -1,0 +1,53 @@
+body{
+  background: #99CCFF;
+}
+.wrap{
+  text-decoration-color:pink;
+  background-color: grey;
+}
+h1{
+    letter-spacing: 2px;
+    font-size: 50px;
+    text-align:justify;;
+    color: blue;
+    text-shadow: 3px 2px 0 pink;
+    margin: 20px 0;
+}
+nav{
+  background-color: yellow;
+  float:left;
+}
+nav li,ul li {
+  display:inline;
+}
+nav a:hover{
+  font-size: 20px;
+  text-decoration: underline;
+}
+.content{
+  text-align: center;
+  color: pink;
+  text-shadow: 2px 3px 0 red;
+  margin-bottom: 40px;
+}
+h2{
+  font-size: 40px;
+}
+.main{
+  float:left;
+}
+a{
+  text-decoration: none;
+}
+footer ul{
+  list-style: none;
+  background-color: green;
+}
+form li{
+  list-style: none;
+  color: black;
+  margin-left: 20px;
+}
+label{
+  display: inline;
+}
