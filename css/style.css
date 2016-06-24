@@ -15,23 +15,46 @@ nav,.bottom{
   font-size: 20px;
 }
 nav li,footer li{
-  display:inline;
-}
-nav li, .bottom li{
+    display:inline;
     padding:40 px;
+}
+.col1,.col2,.col3{
+  margin-left: 0;
+  margin-right: 0;
+}
+.content,main{
+  text-align: justify;
+  background-color: #00b38f;
 }
 .content img{
   margin-top:50px;
   height:100%;
   width:100%;
 }
+main img{
+  height:200px;
+  width:200px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
 h2{
   font-size: 40px;
+}
+h3{
+  letter-spacing: 1px;
+  text-align:center;
+  color:#993366;
 }
 a{
   text-decoration: none;
 }
-
+h5{
+  padding-top:10px;
+}
+p,h5{
+  padding: 0px 10px;
+  text-indent: 30px;
+}
 .links{
   padding: 10px 0;
   background-color: #00b38f;
@@ -39,14 +62,13 @@ a{
 .bottom_nav{
     background-color:grey;
 }
-.links li{
 
-}
 footer img{
   padding-top: 10px;
   width:50px;
   height:50px;
 }
+
 header{
   background-color: #00b38f;
   position:fixed;
