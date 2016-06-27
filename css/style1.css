@@ -10,6 +10,7 @@ h1{
 .bottom img{
   height:200px;
   width:350px;
+  padding-bottom: 10px;
 }
 footer h3{
   color: blue;
