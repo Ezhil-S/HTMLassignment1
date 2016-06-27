@@ -1,3 +1,47 @@
+#f_h1{
+    letter-spacing: 2px;
+    font-size: 40px;
+    color: blue;
+    text-align: center;
+}
+
+.bottom_1 img{
+  height:200px;
+  width:350px;
+  padding-bottom: 10px;
+}
+.col1,.col2,.col3{
+  margin-left: 0;
+  margin-right: 0;
+}
+.content,main{
+  text-align: justify;
+  background: #94b8b8;
+}
+.content img{
+  margin-top:50px;
+  height:100%;
+  width:100%;
+}
+main img{
+  height:200px;
+  width:200px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+}
+h2{
+  font-size: 40px;
+}
+h5,h6{
+  text-align: center;
+  padding-top:20px;
+}
+.footer1{
+  background-color: #00b38f;
+  width:940px;
+  margin-left: 10px;
+}
+
 body{
   background: #383838;
   font-family: 'Slabo 27px', serif;
