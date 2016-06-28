@@ -8,7 +8,7 @@ h1{
   font-size: 30px;
   color:#CC0066;
 }
-.bottom img{
+.subscribe img{
   height:200px;
   width:350px;
   padding-bottom: 10px;
@@ -85,11 +85,9 @@ label{
 .column1,.column2{
   margin-top: 20px;
   margin-bottom: 20px;
-
 }
 .content1{
   background-color: #d9d9d9;
-
 }
 .subscribe{
   margin-right: 0;
@@ -105,6 +103,7 @@ label{
   padding: 10px 0;
 }
 .bottom_nav{
+    text_align:center;
     background-color:grey;
 }
 .links img{
@@ -112,7 +111,7 @@ label{
   height:50px;
   border-radius: 10px;
 }
-footer{
+.footer_1{
   background-color: #00b38f;
   width:960px;
 }

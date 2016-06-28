@@ -18,7 +18,7 @@ nav li,footer li{
     display:inline;
     padding:40 px;
 }
-.bottom img{
+.subscribe img{
   height:200px;
   width:350px;
   padding-bottom: 10px;
@@ -92,6 +92,7 @@ main p{
   padding: 10px 0;
 }
 .bottom_nav{
+  text-align: center;
     background-color:grey;
 }
 .links img{
@@ -102,11 +103,8 @@ main p{
 footer h3{
   color: blue;
 }
-footer img{
-  width:50px;
-  height:50px;
-}
-footer{
+
+.bottom_1{
   background-color: #00b38f;
   width:940px;
   margin-left: 10px;
